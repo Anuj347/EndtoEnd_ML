@@ -22,4 +22,3 @@ class CustomException(Exception):
         return self.error_message
     
 #Now this will be common for entire code
-
